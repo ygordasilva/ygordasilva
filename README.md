@@ -1,7 +1,7 @@
  ## ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=1E90FF&size=25&lines=Olá👋🏻,+Bem+vindo+ao+meu+Github+;+me+chamo+Ygor+da+Silva;Sou+estudante+de+programação)
 
 👨🏻‍💻 Sobre mim:
-- 🧠 Atualmente estudando: HTML, CSS e JavaScript!
+- 🧠 Atualmente estudando: python
 - 📫 Contate-me no email: ygorsilvalol19@gmail.com
 - 😄 Pronouns: ele/dele
 
